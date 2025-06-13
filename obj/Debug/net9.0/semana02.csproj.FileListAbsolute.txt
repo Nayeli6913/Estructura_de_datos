@@ -12,3 +12,4 @@ C:\Users\Usuario\Documents\Proyectos\semana02\obj\Debug\net9.0\refint\semana02.d
 C:\Users\Usuario\Documents\Proyectos\semana02\obj\Debug\net9.0\semana02.pdb
 C:\Users\Usuario\Documents\Proyectos\semana02\obj\Debug\net9.0\semana02.genruntimeconfig.cache
 C:\Users\Usuario\Documents\Proyectos\semana02\obj\Debug\net9.0\ref\semana02.dll
+C:\Users\Usuario\Documents\Proyectos\semana02\obj\Debug\net9.0\semana02.sourcelink.json
