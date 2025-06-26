@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Documentos 1\Proyectos\SEMANA05\EJERCICIO3\bin\Debug\net9.0\EJERCICIO3.exe
+C:\Users\Usuario\OneDrive\Documentos 1\Proyectos\SEMANA05\EJERCICIO3\bin\Debug\net9.0\EJERCICIO3.deps.json
+C:\Users\Usuario\OneDrive\Documentos 1\Proyectos\SEMANA05\EJERCICIO3\bin\Debug\net9.0\EJERCICIO3.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Documentos 1\Proyectos\SEMANA05\EJERCICIO3\bin\Debug\net9.0\EJERCICIO3.dll
+C:\Users\Usuario\OneDrive\Documentos 1\Proyectos\SEMANA05\EJERCICIO3\bin\Debug\net9.0\EJERCICIO3.pdb
+C:\Users\Usuario\OneDrive\Documentos 1\Proyectos\SEMANA05\EJERCICIO3\obj\Debug\net9.0\EJERCICIO3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documentos 1\Proyectos\SEMANA05\EJERCICIO3\obj\Debug\net9.0\EJERCICIO3.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documentos 1\Proyectos\SEMANA05\EJERCICIO3\obj\Debug\net9.0\EJERCICIO3.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documentos 1\Proyectos\SEMANA05\EJERCICIO3\obj\Debug\net9.0\EJERCICIO3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos 1\Proyectos\SEMANA05\EJERCICIO3\obj\Debug\net9.0\EJERCICIO3.sourcelink.json
+C:\Users\Usuario\OneDrive\Documentos 1\Proyectos\SEMANA05\EJERCICIO3\obj\Debug\net9.0\EJERCICIO3.dll
+C:\Users\Usuario\OneDrive\Documentos 1\Proyectos\SEMANA05\EJERCICIO3\obj\Debug\net9.0\refint\EJERCICIO3.dll
+C:\Users\Usuario\OneDrive\Documentos 1\Proyectos\SEMANA05\EJERCICIO3\obj\Debug\net9.0\EJERCICIO3.pdb
+C:\Users\Usuario\OneDrive\Documentos 1\Proyectos\SEMANA05\EJERCICIO3\obj\Debug\net9.0\EJERCICIO3.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Documentos 1\Proyectos\SEMANA05\EJERCICIO3\obj\Debug\net9.0\ref\EJERCICIO3.dll
